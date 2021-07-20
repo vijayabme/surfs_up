@@ -8,7 +8,7 @@ The purpose of the analysis is to look at the temperature trends for the months 
 
 ### Results:
 - June Temperature results: The mean temperature for the month of June is around 75F with max being 85F and min being 64F. The summer month of June is ideal for a surf and shake shop.
-![image](Outcomes_vs_Goals.png)
+![image](https://github.com/vijayabme/surfs_up/blob/main/Resources/June_temps.jpg)
 - December temperature results: The mean temperature for December is around 71F with max being 83F and min being 56F. The temperatures falling below 70F are only in the lower quartile. So there are days that are cold in the month of December but the number of days are very low as shown in the statistics image below.
 ![image](Outcomes_vs_Goals.png)
 ### Summary
