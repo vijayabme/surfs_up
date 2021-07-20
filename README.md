@@ -17,4 +17,4 @@ Overall both June and December statistics indicate that the temperatures in Oahu
 Additional analysis:
 We also need to look at the precipitation results for the months of June and December to see if the island gets a lot of rain.
 Also we can check which stations report more precipitation to find an ideal location for the surf and shake shop.
-Also we can query the data to get an average of all the summer months and an average of all the winter months to see if the temperatures are infact idea round the year.
+Also we can query the data to get an average of all the summer months and an average of all the winter months to see if the temperatures are infact ideal round the year.
